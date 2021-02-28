@@ -19,12 +19,12 @@ They seem to come from [this Pinterest Post](https://www.pinterest.co.uk/pin/380
 The Map Icons are currently available as...
 
 - [x] SVGs
-- [ ] a Font Pack
+- [x] a Font Pack
 
 ## To Do List
 
 - [ ]  Release CSS styles for the icons
-- [ ] Make a demo webpage
+- [x] Make a demo webpage
 - [ ] Reorganise, and do a general tidy-up
 
 ## Contributing
