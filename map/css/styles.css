@@ -1,0 +1,234 @@
+@font-face {
+  font-family: 'DnD-Map-Icons';
+  src:  url('fonts/DnD-Map-Icons.eot?7svns2');
+  src:  url('fonts/DnD-Map-Icons.eot?7svns2#iefix') format('embedded-opentype'),
+    url('fonts/DnD-Map-Icons.ttf?7svns2') format('truetype'),
+    url('fonts/DnD-Map-Icons.woff?7svns2') format('woff'),
+    url('fonts/DnD-Map-Icons.svg?7svns2#DnD-Map-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon.map {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'DnD-Map-Icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.skull-f:before {
+  content: "\e943";
+}
+.skull-o:before {
+  content: "\e944";
+}
+.arrowhead:before {
+  content: "\e900";
+}
+.axe:before {
+  content: "\e901";
+}
+.barrow:before {
+  content: "\e902";
+}
+.bow:before {
+  content: "\e903";
+}
+.bramble-left:before {
+  content: "\e904";
+}
+.bramble-right:before {
+  content: "\e905";
+}
+.camp:before {
+  content: "\e906";
+}
+.camp-large:before {
+  content: "\e907";
+}
+.castle:before {
+  content: "\e908";
+}
+.cave:before {
+  content: "\e909";
+}
+.chest:before {
+  content: "\e90a";
+}
+.city:before {
+  content: "\e90b";
+}
+.crypt:before {
+  content: "\e90c";
+}
+.crystals-a:before {
+  content: "\e90d";
+}
+.crystals-b:before {
+  content: "\e90e";
+}
+.cutlas:before {
+  content: "\e90f";
+}
+.dock:before {
+  content: "\e910";
+}
+.dungeon:before {
+  content: "\e911";
+}
+.fort:before {
+  content: "\e912";
+}
+.graveyard:before {
+  content: "\e913";
+}
+.hammer:before {
+  content: "\e914";
+}
+.horse:before {
+  content: "\e915";
+}
+.horseshoe:before {
+  content: "\e916";
+}
+.house-stilts:before {
+  content: "\e917";
+}
+.keep:before {
+  content: "\e918";
+}
+.lighthouse:before {
+  content: "\e919";
+}
+.lizardmen:before {
+  content: "\e91a";
+}
+.mill:before {
+  content: "\e91b";
+}
+.mine:before {
+  content: "\e91c";
+}
+.monolith:before {
+  content: "\e91d";
+}
+.obelisk:before {
+  content: "\e91e";
+}
+.orc:before {
+  content: "\e91f";
+}
+.pyramid:before {
+  content: "\e920";
+}
+.ruins-a:before {
+  content: "\e921";
+}
+.ruins-b:before {
+  content: "\e922";
+}
+.shield:before {
+  content: "\e923";
+}
+.ship:before {
+  content: "\e924";
+}
+.shrine:before {
+  content: "\e925";
+}
+.sphinx:before {
+  content: "\e926";
+}
+.spider:before {
+  content: "\e927";
+}
+.standing-stones:before {
+  content: "\e928";
+}
+.stone-head:before {
+  content: "\e929";
+}
+.stronghold:before {
+  content: "\e92a";
+}
+.tankard:before {
+  content: "\e92b";
+}
+.temple-a:before {
+  content: "\e92c";
+}
+.temple-b:before {
+  content: "\e92d";
+}
+.temple-c:before {
+  content: "\e92e";
+}
+.temple-d:before {
+  content: "\e92f";
+}
+.temple-e:before {
+  content: "\e930";
+}
+.totem:before {
+  content: "\e931";
+}
+.tower:before {
+  content: "\e932";
+}
+.tower-evil:before {
+  content: "\e933";
+}
+.town-a:before {
+  content: "\e934";
+}
+.town-b:before {
+  content: "\e935";
+}
+.town-c:before {
+  content: "\e936";
+}
+.town-d:before {
+  content: "\e937";
+}
+.town-e:before {
+  content: "\e938";
+}
+.town-f:before {
+  content: "\e939";
+}
+.village:before {
+  content: "\e93a";
+}
+.village-hut:before {
+  content: "\e93b";
+}
+.watchtower:before {
+  content: "\e93c";
+}
+.waterfall:before {
+  content: "\e93d";
+}
+.whirlpool:before {
+  content: "\e93e";
+}
+.windmill:before {
+  content: "\e93f";
+}
+.ziggurat:before {
+  content: "\e940";
+}
+.altar:before {
+  content: "\e941";
+}
+.anvil:before {
+  content: "\e942";
+}
